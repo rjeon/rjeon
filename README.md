@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rjeon
+- 👋 Hello there, I’m Robert Jeon
 - 👀 I'm interested in software development and machine learning!
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m a Computer Science Major at Georgia Institute of Technology
