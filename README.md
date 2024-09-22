@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Robert Jeon</h1>
-<h3 align="center">Alum @ Georgia Institute of Technology</h3>
 
 - 🎓 I graduated from Georgia Institute of Technology with the Highest Honors in May 2024
 - 🏆 Placed first place in the Hacklytics 2022 Competition for the creation of [Travel Simply](https://devpost.com/software/travel-simply)
